@@ -1,0 +1,21 @@
+{
+  "name": "high-performance-api-pagination",
+  "version": "1.0.0",
+  "description": "API RESTful con Node.js, PostgreSQL y Redis implementando paginación por cursor y Rate Limiting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudioLegrand/high-performance-api-pagination.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ClaudioLegrand/high-performance-api-pagination/issues"
+  },
+  "homepage": "https://github.com/ClaudioLegrand/high-performance-api-pagination#readme"
+}
